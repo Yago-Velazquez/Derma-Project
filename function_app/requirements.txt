@@ -1,0 +1,6 @@
+pillow
+pillow-heif
+numpy
+azure-functions
+requests
+
